@@ -1,8 +1,6 @@
 ## Opaaa me chamo Mayk Mendes
 
-- 🔭 Atualmente estou me desenvolvendo em Front-End
-- 🌱 Estudando ReactJs
-- 😄 Pronouns: Ele/Dele
+Atualmente estudando ReactJs
 
 <div align="center">
   <a href="https://github.com/MaykMendes">
